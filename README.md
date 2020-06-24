@@ -7,4 +7,5 @@ Chinese-Zodiac
 宣传十二生肖，弘扬传统文化
 ## 开发工具
 Visual Studio Code
-PhotoshopCS6
+Adobe Audition CS6
+Adobe Photoshop CS6
